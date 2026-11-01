@@ -77,7 +77,7 @@ The application uses the following grading classification:
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+   git clone https://github.com/alamadarehan-hash/MDT---LAB-2/tree/main
    ```
 
 3. Navigate to the project directory:
