@@ -77,13 +77,13 @@ The application uses the following grading classification:
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/alamadarehan-hash/MDT---LAB-2/tree/main
+   git clone https://github.com/alamadarehan-hash/MDT---LAB-2
    ```
 
 3. Navigate to the project directory:
 
    ```bash
-   cd YOUR-REPOSITORY
+   cd MDT---LAB-2
    ```
 
 4. Run the program:
